@@ -1,2 +1,2 @@
-# Token-Reward-Scoody-Fork
-Scoody token fork 
+# BHG-Scooby-Fork
+fork sooby token bsc
